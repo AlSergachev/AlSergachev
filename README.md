@@ -1,4 +1,4 @@
-  ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23951BF7&size=23&duration=6000&center=true&vCenter=true&width=1200&lines=Hi+there%2C+I'm+Aleksandr+%F0%9F%91%8B)](https://git.io/typing-svg)
+  # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23951BF7&size=30&duration=6000&center=true&vCenter=true&width=1100&lines=Hi+there%2C+I'm+Aleksandr+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 **AlSergachev/AlSergachev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
